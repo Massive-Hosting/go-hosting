@@ -5,7 +5,7 @@ Go client library for the [Hosting Platform](https://massive-hosting.com) contro
 ## Installation
 
 ```bash
-go get github.com/edvin/go-hosting
+go get github.com/massive-hosting/go-hosting
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ import (
     "fmt"
     "time"
 
-    "github.com/edvin/go-hosting"
+    "github.com/massive-hosting/go-hosting"
 )
 
 type Webapp struct {
